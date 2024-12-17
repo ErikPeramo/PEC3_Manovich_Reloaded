@@ -40,6 +40,9 @@ La combinación de tecnología y narrativa gráfica permite explorar nuevos gén
 
 
 
+
+
+
 ### **Ensayo 2: Radio Garden - Explorando el mundo a través de la radio interactiva**
 
 **Radio Garden** es una plataforma interactiva que combina el medio tradicional de la radio con tecnologías avanzadas de cartografía digital, creando una experiencia que reinventa la forma en que exploramos y consumimos contenido auditivo. Al unir la radio y un globo terráqueo interactivo, Radio Garden permite a los usuarios descubrir estaciones de radio de cualquier parte del mundo de forma inmersiva.
