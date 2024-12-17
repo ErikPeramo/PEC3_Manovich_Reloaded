@@ -39,8 +39,7 @@ En términos culturales, los webcómics han permitido explorar temáticas más d
 La combinación de tecnología y narrativa gráfica permite explorar nuevos géneros e historias. Los webcómics representan un paso hacia un futuro donde las barreras entre medios se disuelven, dando lugar a experiencias narrativas únicas e inclusivas. Este formato no solo amplía las posibilidades creativas, sino que también redefine el significado de ser un creador en la era digital.
 
 
-
-
+.
 
 
 ### **Ensayo 2: Radio Garden - Explorando el mundo a través de la radio interactiva**
