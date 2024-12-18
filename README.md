@@ -6,11 +6,11 @@ Fecha: 18/12/2024
 ___
 
 
-## **Ensayo 1: Webcómics - La hibridación del cómic y la web**
+## **Ensayo 1: Webcómics - La hibridación del cómic y la web**🖍️✨
 
 Los **webcómics** representan una evolución del cómic tradicional al trasladarlo al entorno digital, aprovechando las capacidades únicas de la web. Este medio híbrido ha transformado la forma de contar historias, adaptándolas al ecosistema tecnológico actual e incorporando características interactivas, multimedia y una distribución global instantánea. Es una expresión clara de la convergencia entre medios analógicos y digitales.
 
-#### **La esencia del webcómic como hibridación**
+#### 📕**La esencia del webcómic como hibridación**
 
 El cómic tradicional, basado en papel, se caracteriza por su narrativa visual dividida en viñetas. Con la llegada de internet, esta estructura se transforma:
 
@@ -21,7 +21,8 @@ El cómic tradicional, basado en papel, se caracteriza por su narrativa visual d
 >El entorno digital no solo transforma el formato, sino también la economía creativa. Plataformas como Patreon permiten a los artistas obtener apoyo financiero directo de sus lectores. Este modelo cambia la relación entre el autor y su audiencia, fomentando una conexión más personal y colaborativa.
 >
 ![Web Comic](https://www.eslahoradelastortas.com/blog/media/season04/2012-02-02-dia-internacional-webcomic.gif)
-#### **Principios del software aplicados a los webcómics**
+
+⚙####⚙️ **Principios del software aplicados a los webcómics**
 
 Lev Manovich identifica características esenciales en el software que también se reflejan en los webcómics:
 
