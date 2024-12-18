@@ -22,7 +22,7 @@ El cómic tradicional, basado en papel, se caracteriza por su narrativa visual d
 >
 ![Web Comic](https://www.eslahoradelastortas.com/blog/media/season04/2012-02-02-dia-internacional-webcomic.gif)
 
-⚙####⚙️ **Principios del software aplicados a los webcómics**
+#### ⚙️**Principios del software aplicados a los webcómics**
 
 Lev Manovich identifica características esenciales en el software que también se reflejan en los webcómics:
 
@@ -32,19 +32,19 @@ Lev Manovich identifica características esenciales en el software que también 
 
 La modularidad también se refleja en los formatos innovadores de narración. Por ejemplo, algunos webcómics integran gifs animados o secuencias que se despliegan a medida que el lector navega, jugando con el tiempo y el espacio narrativo.
 
-#### **Ejemplos destacados**
+#### 📌**Ejemplos destacados**
 
 Plataformas como *Webtoon*, *Tapas* y *Hiveworks* lideran la distribución de webcómics. Obras como _Lore Olympus_ utilizan colores vibrantes y diseños minimalistas para narrar mitología griega, adaptada al formato móvil. Por otro lado, experimentos como _The Right Number_ de Scott McCloud exploran narrativas no lineales aprovechando la flexibilidad de la web.
 
 Asimismo, webcómics como _Sarah's Scribbles_ han demostrado cómo este medio puede cruzar fronteras culturales y lingüísticas, utilizando el humor y la universalidad de los temas cotidianos. La popularidad de estos webcómics ha dado lugar a adaptaciones impresas y acuerdos de licencia para merchandising, un ejemplo de cómo la hibridación también impacta la economía creativa.
 
-#### **Impacto cultural**
+#### 📍**Impacto cultural**
 
 Los webcómics han democratizado la creación y el acceso al arte gráfico. Ahora, creadores independientes pueden llegar a audiencias globales sin depender de editoriales. Además, los lectores pueden interactuar directamente con los autores a través de comentarios y redes sociales, fomentando una comunidad participativa y colaborativa.
 
 En términos culturales, los webcómics han permitido explorar temáticas más diversas e inclusivas, abordando problemáticas sociales, identidades marginalizadas y narrativas que no siempre encuentran espacio en los medios tradicionales. La accesibilidad del medio digital ha ampliado los horizontes de representación y alcance.
 
-#### **Hibridación narrativa**
+#### 📊**Hibridación narrativa**
 
 La combinación de tecnología y narrativa gráfica permite explorar nuevos géneros e historias. Los webcómics representan un paso hacia un futuro donde las barreras entre medios se disuelven, dando lugar a experiencias narrativas únicas e inclusivas. Este formato no solo amplía las posibilidades creativas, sino que también redefine el significado de ser un creador en la era digital.
 
@@ -54,11 +54,11 @@ ____
 ___
 
 
-## **Ensayo 2: Radio Garden - Explorando el mundo a través de la radio interactiva**
+## **Ensayo 2: Radio Garden - Explorando el mundo a través de la radio interactiva**🌎📡
 
 **Radio Garden** es una plataforma interactiva que combina el medio tradicional de la radio con tecnologías avanzadas de cartografía digital, creando una experiencia que reinventa la forma en que exploramos y consumimos contenido auditivo. Al unir la radio y un globo terráqueo interactivo, Radio Garden permite a los usuarios descubrir estaciones de radio de cualquier parte del mundo de forma inmersiva.
 
-#### **¿Qué es Radio Garden?**
+#### 💫**¿Qué es Radio Garden?**
 
 Radio Garden utiliza un globo terráqueo digital donde cada punto verde representa una estación de radio activa. Al interactuar con el mapa, el usuario puede sintonizar transmisiones locales de cualquier rincón del mundo en tiempo real. Esta plataforma ofrece una experiencia única que mezcla tecnología, interactividad y cultura.
 
@@ -66,7 +66,7 @@ Radio Garden no solo actúa como un directorio global de estaciones de radio, si
 
 ![Imagen de Radio Garden](https://px.radio.garden/facebook/82Q3wG81.jpg)
 
-#### **Principios del software en Radio Garden**
+#### ⚙️**Principios del software en Radio Garden**
 
 Los conceptos de Lev Manovich sobre el software son fundamentales para entender cómo Radio Garden transforma la radio en un medio interactivo y global:
 
@@ -76,13 +76,13 @@ Los conceptos de Lev Manovich sobre el software son fundamentales para entender 
 
 Además, el uso del *cloud computing* y bases de datos centralizadas permite a Radio Garden mantener una conectividad constante, asegurando una experiencia sin interrupciones para el usuario.
 
-#### **Hibridación tecnológica y cultural**
+#### 📍**Hibridación tecnológica y cultural**
 
 Radio Garden no solo fusiona tecnología, sino que también conecta culturas. El usuario puede descubrir música, noticias y programas desde lugares remotos, promoviendo el entendimiento global. Por ejemplo, al sintonizar una estación de Tokio o Río de Janeiro, el usuario se sumerge en las tradiciones culturales y el contexto local.
 
 Esta hibridación no es solo técnica, sino profundamente simbólica. Permite que los usuarios participen en una experiencia global, rompiendo barreras geográficas y lingüísticas. Por ejemplo, las estaciones de radio locales reflejan los eventos, costumbres y emociones de sus comunidades, funcionando como una ventana a mundos lejanos.
 
-#### **Comparativa con otros servicios**
+#### 📊**Comparativa con otros servicios**
 
 En comparación con servicios como *Spotify*, que recomiendan música personalizada basada en algoritmos, Radio Garden devuelve la magia de la exploración espontánea. En lugar de limitarse a lo conocido, el usuario puede saltar entre estaciones y descubrir contenidos inesperados. Esto crea una experiencia de descubrimiento auténtica y emocionante.
 
@@ -90,7 +90,7 @@ Radio Garden también difiere de otras plataformas digitales al enfatizar la con
 
 ![Interfaz de Radio Garden](https://d9zuehkdkxba0.cloudfront.net/wp-content/uploads/2022/01/Radio-Garden-en-App.jpg)
 
-#### **Impacto global y reflexiones culturales**
+#### ✨**Impacto global y reflexiones culturales**
 
 Radio Garden ha revitalizado el interés por la radio, atrayendo tanto a oyentes tradicionales como a audiencias digitales. Su capacidad para unir a las personas a través del audio y la geolocalización lo convierte en un símbolo de la interconexión global del siglo XXI.
 
