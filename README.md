@@ -1,9 +1,9 @@
 **Hibridación en los WebCómic y Radio Garden**
 
 Autor: Erik Peramo Morales
+
 Fecha: 18/12/2024
 ___
----
 
 
 ## **Ensayo 1: Webcómics - La hibridación del cómic y la web**
