@@ -97,7 +97,6 @@ La experiencia de Radio Garden también tiene implicaciones educativas y sociale
 > #### **Reflexión final**
 >Al combinar medios tradicionales con tecnologías avanzadas, Radio Garden es un ejemplo claro de cómo la hibridación puede preservar la esencia de un medio clásico mientras lo proyecta hacia el futuro. En un momento donde la tecnología a menudo aliena, Radio Garden muestra cómo puede también unirnos, construyendo puentes culturales a través de ondas digitales.
 
----
 ![Banner de libros](https://img.freepik.com/fotos-premium/borde-libro-aislado-sobre-fondo-blanco-banner-literatura-espacio-copia-texto_361816-3774.jpg)
 ### **Bibliografía sobre Webcómics**
 
