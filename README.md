@@ -86,6 +86,7 @@ Esta hibridación no es solo técnica, sino profundamente simbólica. Permite qu
 En comparación con servicios como *Spotify*, que recomiendan música personalizada basada en algoritmos, Radio Garden devuelve la magia de la exploración espontánea. En lugar de limitarse a lo conocido, el usuario puede saltar entre estaciones y descubrir contenidos inesperados. Esto crea una experiencia de descubrimiento auténtica y emocionante.
 
 Radio Garden también difiere de otras plataformas digitales al enfatizar la conexión con lo local. Mientras que los servicios de streaming a menudo homogenizan la música global, Radio Garden celebra la diversidad y autenticidad de las estaciones regionales.
+
 ![Interfaz de Radio Garden](https://d9zuehkdkxba0.cloudfront.net/wp-content/uploads/2022/01/Radio-Garden-en-App.jpg)
 
 #### **Impacto global y reflexiones culturales**
